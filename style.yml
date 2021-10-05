@@ -1,6 +1,6 @@
 $name: My Style
 
-$background: rgba(19, 28, 54, 1)
+$background: "#FF0000"
 $waterColor: rgba(1, 17, 44, 1)
 $highwayColor: rgba(255, 255, 255, 0.4)
 $textSettings:
