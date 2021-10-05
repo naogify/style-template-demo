@@ -4,7 +4,7 @@ $background: "#ff0000"
 $waterColor: rgba(1, 17, 44, 1)
 $highwayColor: rgba(255, 255, 255, 0.4)
 $textSettings:
-  text-halo-blur: 0.5
+  text-halo-blur: 1
   text-color: "#FFFFFF"
   text-halo-width: 1
   text-halo-color: "#000000"
